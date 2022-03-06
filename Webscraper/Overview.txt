@@ -1,0 +1,2 @@
+Update link on Main.py to judge link of whatever tournament you want to scrape
+Run Main.py, it will create text files on local and compile into a csv file of specified name
