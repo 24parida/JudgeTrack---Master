@@ -34,5 +34,7 @@ Specific details for each part of the project can be found in the README file of
 Yes, this model isn't that accuracte, but given this is text classification model, trained on only 300 data entries which had to be manually entered it's actually pretty accurate.
 <br>
 A potential downside, is since the data set wasn't equally distributed among the 3 categories of judges, the model will have a bias towards the category 1, corresponding to lay judge
-![JudgeTrack Diagram down, look at ModelAccuracy.png file in repo](ModelAccuracy.png)
-![JudgeTrack Diagram down, look at HeatMap.png file in repo](HeatMap.png)
+<br>
+![JudgeTrack Diagram down, look at ModelAccuracy.png file in repo](ModelAccuracy.PNG)
+<br>
+![JudgeTrack Diagram down, look at HeatMap.png file in repo](HeatMap.PNG)
