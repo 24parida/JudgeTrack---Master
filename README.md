@@ -28,4 +28,4 @@ Look at the **JudgeTrack Diagram** for a more indepth orginization, and design o
 
 Specific details for each part of the project can be found in the README file of each mini-repo
 
-![alt text](https://github.com/24parida/JudgeTrack--Master/JudgeTrack--Diagram.png?raw=true)
+![Project Diagram](https://github.com/24parida/JudgeTrack--Master/JudgeTrackDiagram.png?raw=true)
