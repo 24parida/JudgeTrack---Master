@@ -35,6 +35,7 @@ Yes, this model isn't that accuracte, but given this is text classification mode
 <br>
 A potential downside, is since the data set wasn't equally distributed among the 3 categories of judges, the model will have a bias towards the category 1, corresponding to lay judge
 <br>
+<br>
 ![JudgeTrack Diagram down, look at ModelAccuracy.png file in repo](ModelAccuracy.PNG)
 <br>
 ![JudgeTrack Diagram down, look at HeatMap.png file in repo](HeatMap.PNG)
