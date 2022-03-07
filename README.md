@@ -27,3 +27,5 @@ all of this is deployed on the cloud, all the machine learning and API gateway i
 Look at the **JudgeTrack Diagram** for a more indepth orginization, and design of how all of this was implementedd
 
 Specific details for each part of the project can be found in the README file of each mini-repo
+
+![alt text](https://github.com/24parida/JudgeTrack--Master/JudgeTrack -- Diagram.png?raw=true)
