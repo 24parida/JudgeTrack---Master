@@ -31,6 +31,8 @@ Specific details for each part of the project can be found in the README file of
 ![JudgeTrack Diagram down, look at JudgeTrackDiagram.png file in repo](JudgeTrackDiagram.png)
 
 # Model Accuracy
+## NO LONGER UP TO DATE check code in: https://github.com/24parida/judgeTrack-Modelv2
+
 This model isn't super accurate, but given this is text classification model, trained on only 300 data entries which had to be manually classified it's actually pretty accurate.
 <br>
 A potential downside, is since the data set wasn't equally distributed among the 3 categories of judges, the model will have a bias towards category 1, corresponding to lay judge
